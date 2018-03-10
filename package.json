@@ -1,0 +1,21 @@
+{
+    "author": "siddharth.salunkhe11@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "buildgt",
+    "pebble": {
+        "displayName": "BUILDGT",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "02afb961-9d2c-4432-a1c8-a4fe4be3fb9f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
